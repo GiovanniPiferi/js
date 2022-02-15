@@ -1,4 +1,4 @@
 //commento su riga
-function ciao() {
-    alert("Ciao")
+function Benvenuto() {
+    alert("ようこそ")
 }
